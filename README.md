@@ -32,12 +32,6 @@ The result of decoding will be displayed on the text area.
 While working with the program you can change N, E, D values for checking how your encoded and decoded messages are being changed. 
 The message is encrypted in blocks of 16 bytes.
 
-***Tutorial***
-
-The complete tutorial about how to design the simple app can be found in [This medium post](https://medium.com/prodsters/how-to-build-a-desktop-application-with-java-a34ee9c18ee3)
-
-I discussed the basic details of creating a GUI Desktop Application with `Java`. 
-
 ***Contributions***
 
 Contributions are welcome, fork the repo, make your changes, create a Pull Request and it will be attended to
